@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\seminar_project\seminar_project\bin\Release\netcoreapp2.0\seminar_project.deps.json
+C:\Users\Otto\source\repos\seminar_project\seminar_project\bin\Release\netcoreapp2.0\seminar_project.runtimeconfig.json
+C:\Users\Otto\source\repos\seminar_project\seminar_project\bin\Release\netcoreapp2.0\seminar_project.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\seminar_project\seminar_project\bin\Release\netcoreapp2.0\seminar_project.dll
+C:\Users\Otto\source\repos\seminar_project\seminar_project\bin\Release\netcoreapp2.0\seminar_project.pdb
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.csproj.CoreCompileInputs.cache
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.AssemblyInfo.cs
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.dll
+C:\Users\Otto\source\repos\seminar_project\seminar_project\obj\Release\netcoreapp2.0\seminar_project.pdb

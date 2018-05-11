@@ -1,0 +1,11 @@
+C:\Users\Otto\source\repos\seminar_project\seminar_project
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=seminar_project
+--content-root=C:\Users\Otto\source\repos\seminar_project\seminar_project
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\Home\About.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\Home\Contact.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\Home\Index.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\Shared\Error.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\Shared\_Layout.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\_ViewImports.cshtml
+--file=C:\Users\Otto\source\repos\seminar_project\seminar_project\Views\_ViewStart.cshtml
